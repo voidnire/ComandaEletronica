@@ -1,0 +1,12 @@
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\bin\Debug\net6.0\ComandaClassLibrary.deps.json
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\bin\Debug\net6.0\ComandaClassLibrary.dll
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\bin\Debug\net6.0\ComandaClassLibrary.pdb
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.AssemblyInfo.cs
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.dll
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\refint\ComandaClassLibrary.dll
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ComandaClassLibrary.pdb
+C:\Users\laura\source\repos\ComandaEletrônica\ComandaClassLibrary\obj\Debug\net6.0\ref\ComandaClassLibrary.dll
